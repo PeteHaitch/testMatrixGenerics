@@ -1,0 +1,10 @@
+Package: testMatrixGenerics
+Title: A toy package to test MatrixGenerics implementation
+Description: A toy package to test MatrixGenerics implementation.
+Version: 0.0.99
+Authors@R: c(person("Peter", "Hickey", role = c("aut", "cre"),
+    email = "peter.hickey@gmail.com"))
+Imports: methods, MatrixGenerics, stats
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 6.0.1
